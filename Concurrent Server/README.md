@@ -1,4 +1,4 @@
-# LABS-ARSW
+# Concurrent Server Web
 
 ## Requerimientos 
 
