@@ -50,9 +50,9 @@ public class ConcurrentServer {
                 + "<html>"
                 + "<head>"
                 + "<meta charset=\"UTF-8\">"
-                + "<title>Title of the document</title>\n" + "</head>"
+                + "<title>Server Concurrent</title>\n" + "</head>"
                 + "<body>"
-                + "My Web Site"
+                + "Server concurrent"
                 +"<img src='https://www.motofichas.com/images/phocagallery/Kawasaki/ninja-zx-6r-2020/01-kawasaki-ninja-zx-6r-2020-estudio-verde.jpg'"
                 + "</body>"
                 + "</html>" ;
