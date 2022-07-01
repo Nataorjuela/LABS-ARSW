@@ -43,7 +43,8 @@ mvn test
 
 ~~~
 mvn javadoc:javadoc
+acceso a la carpeta [JAVADOC](https://github.com/Nataorjuela/LABS-ARSW/tree/master/Concurrent%20Server/apidocs)
 ~~~
 
 ## Licencia
-Este proyecto está bajo la Licencia Pública General GNU - consulte el archivo de [LICENCIA]("C:\Users\Natalia\Documentos\ARSW\LABS-ARSW\Concurrent Server\LICENSE.txt") para obtener más detalles
+Este proyecto está bajo la Licencia Pública General GNU - consulte el archivo de [LICENSE.txt](http://www.gnu.org/licenses/gpl-3.0.html) para obtener más detalles
