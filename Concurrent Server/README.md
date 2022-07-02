@@ -1,17 +1,17 @@
-# Concurrent Server Web
-En este proyecto se realizara una calculadora con la media y la desviación estandar implementando la linkedList. 
+# Concurrent Server Web - Heroku Spring
+En este taller usted debe aplicar sus conocimientos para desplegar su servidor web en Heroku y construir su primera aplicación usando un framework de desarrollo de aplicaciones empresariales. El framework de aplicaciones empresariales que utilizaremos a lo largo del curso será Spring.
 
-## Requerimientos 
+## Requerimientos:
 
-1. Cree un versión concurrente de su servidor web
+1. Despliegue el servidor web que desarrolló en el taller anterior en Heroku. Entregue su repositorio en github actualizado y el enlace a la aplicación ejecutándose en Heroku.
 
-2. Use pools de hilos para una implementación optima.
+2. Construya una aplicación en Spring que implemente el famosos juegos de picas y famas y que esté desplegada en Heroku. Entregue su repositorio en github actualizado y el enlace a la aplicación ejecutándose en Heroku.
 
-3. Cree pruebas concurrentes para probar su servidor web.
+Para iniciar con Spring y Heroku siga los siguientes tutoriales:
 
-4. (Opcional) Incluya manejo de cookies, e intente simular varios usuarios (https://docs.oracle.com/javase/tutorial/networking/TOC.html)
+1. https://spring.io/quickstart
 
-5. Entregue de manera profesional sobre github.
+2. https://devcenter.heroku.com/articles/getting-started-with-java
 
 ## Autor
 
