@@ -13,3 +13,5 @@ Por favor dar click en el enlace para dirigirse al laboratorio.
 4.[Servidor web concurrente](https://github.com/Nataorjuela/LABS-ARSW/tree/master/Concurrent%20Server)
 
 5.[Heroku Spring](https://github.com/Nataorjuela/LABS-ARSW/tree/master/Concurrent%20Server)
+
+6.[Security Board](https://github.com/Nataorjuela/LAB-SecurityBoard.git)
