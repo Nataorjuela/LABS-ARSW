@@ -1,4 +1,5 @@
-TALLER TABLERO INTERACTIVO TIEMPO REAL. SPRING.IO, WEBSOCKETS, REACTJS, P5, HEROKU : BUENAS PRÁCTICAS DE DISEÑO
+## TALLER TABLERO INTERACTIVO TIEMPO REAL. SPRING.IO, WEBSOCKETS, REACTJS, P5, HEROKU : BUENAS PRÁCTICAS DE DISEÑO
+
 Seguir el taller con sus instrucciones y entregar el link en github. En el readme agregar el link al proyecto en Heroku.
 
 AYUDA: Al subirlo a Heroku recuerde que Heroku requiere una conexión segura para el web socket, por lo tanto debería utilizar "wss" en el protoclo, es decir una dirección de este estilo:
