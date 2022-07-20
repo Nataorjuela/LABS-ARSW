@@ -1,17 +1,9 @@
-# Concurrent Server Web - Heroku Spring
-En este taller usted debe aplicar sus conocimientos para desplegar su servidor web en Heroku y construir su primera aplicación usando un framework de desarrollo de aplicaciones empresariales. El framework de aplicaciones empresariales que utilizaremos a lo largo del curso será Spring.
+TALLER TABLERO INTERACTIVO TIEMPO REAL. SPRING.IO, WEBSOCKETS, REACTJS, P5, HEROKU : BUENAS PRÁCTICAS DE DISEÑO
+Seguir el taller con sus instrucciones y entregar el link en github. En el readme agregar el link al proyecto en Heroku.
 
-## Requerimientos:
+AYUDA: Al subirlo a Heroku recuerde que Heroku requiere una conexión segura para el web socket, por lo tanto debería utilizar "wss" en el protoclo, es decir una dirección de este estilo:
 
-1. Despliegue el servidor web que desarrolló en el taller anterior en Heroku. Entregue su repositorio en github actualizado y el enlace a la aplicación ejecutándose en Heroku.
-
-2. Construya una aplicación en Spring que implemente el famosos juegos de picas y famas y que esté desplegada en Heroku. Entregue su repositorio en github actualizado y el enlace a la aplicación ejecutándose en Heroku.
-
-Para iniciar con Spring y Heroku siga los siguientes tutoriales:
-
-1. https://spring.io/quickstart
-
-2. https://devcenter.heroku.com/articles/getting-started-with-java
+'wss://' + (host) + '/bbService'
 
 ## Autor
 
