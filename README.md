@@ -16,4 +16,4 @@ Por favor dar click en el enlace para dirigirse al laboratorio.
 
 6.[Security Board](https://github.com/Nataorjuela/LAB-SecurityBoard.git)
 
-7.[Tablero Interactivo](https://github.com/Nataorjuela/LABS-ARSW/tree/master/TableroRealTime)
+7.[Tablero Interactivo](https://github.com/Nataorjuela/BoardRealTime.git)
