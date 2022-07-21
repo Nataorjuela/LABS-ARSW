@@ -20,4 +20,4 @@ Por favor dar click en el enlace para dirigirse al laboratorio.
 
 8.[Security Board](https://github.com/Nataorjuela/LAB-SecurityBoard.git)
 
-9.[Taller WS+REdis+Token seguroAssignment]
+9.[Taller WS+REdis+Token seguroAssignment](https://github.com/Nataorjuela/WS-REdis-Token-seguroAssignment.git)
